@@ -4,7 +4,13 @@
     "resourceGroupName": "myResourceGroup",
     "api-version": "2024-03-03",
     "galleryName": "myGalleryName",
-    "inVMAccessControlProfileName": "myInVMAccessControlProfileName"
+    "inVMAccessControlProfileName": "myInVMAccessControlProfileName",
+    "galleryInVMAccessControlProfile": {
+      "properties": {
+        "osType": "Linux",
+        "applicableHostEndpoint": "WireServer"
+      }
+    }
   },
   "responses": {
     "200": {

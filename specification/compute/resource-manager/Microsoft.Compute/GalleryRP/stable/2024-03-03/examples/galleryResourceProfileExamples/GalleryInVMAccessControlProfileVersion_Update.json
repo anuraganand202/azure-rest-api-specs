@@ -7,7 +7,6 @@
     "inVMAccessControlProfileName": "myInVMAccessControlProfileName",
     "inVMAccessControlProfileVersionName": "1.0.0",
     "galleryInVMAccessControlProfileVersion": {
-      "location": "West US",
       "properties": {
         "mode": "Audit",
         "defaultAccess": "Allow",
