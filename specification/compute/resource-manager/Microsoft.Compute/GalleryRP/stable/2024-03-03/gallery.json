@@ -3386,7 +3386,7 @@
         },
         "blockDeletionBeforeEndOfLife": {
           "type": "boolean",
-          "description": "Indicates whether or not the deletion is blocked for this Gallery Image Version is its End Of Life has not expired."
+          "description": "Indicates whether or not the deletion is blocked for this Gallery Image Version if its End Of Life has not expired."
         }
       },
       "allOf": [
